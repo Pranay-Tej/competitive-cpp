@@ -8,7 +8,7 @@
 # Unignore all dirs
 !*/
 
-#vscode
+# vscode
 .vscode
 
 # Prerequisites
